@@ -5,4 +5,4 @@ const sources = [
     'img/04.jpg',
     'img/03.jpg',
     'img/05.jpg',
-];
+]
